@@ -1,3 +1,8 @@
+.box,body,html{height:100%}
+*{margin:0;padding:0}
+.box{display:flex;flex-direction:column;overflow:hidden}
+.box header,.box nav{background:#f60;height:30px;color:#fff}
+.box .content{background:#ccc;flex:1;overflow:auto}
 html{font-size:65.5%}
 body{background:#efefef}
 .page{width:100%;height:100%;overflow:hidden;text-align:center}
