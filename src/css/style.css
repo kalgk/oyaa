@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.logo {
+  background: url(../images/logo.png) center no-repeat;
+  background-size: 100%;
+  width: 200px;
+  height: 200px;
+}
