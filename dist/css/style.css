@@ -1,9 +1,0 @@
-.page,body,html{height:100%}
-*{margin:0;padding:0}
-html{font-size:65.5%}
-.cGray,a.cGray{color:#666}
-a.cGray:hover{color:#f60}
-.page{width:100%;overflow:hidden;display:flex;flex-direction:column}
-.page .content{background:#ccc;flex:1;overflow:auto}
-.logo{width:10rem;height:10rem;margin:2rem auto}
-header,nav{background:#fc0;height:2rem;color:#fff}
